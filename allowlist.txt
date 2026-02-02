@@ -2,3 +2,4 @@ skoda-auto.com
 skoda-connect.com
 mysmob.api.connect.skoda-auto.cz
 msp-gw-myskoda-live.westeurope.cloudapp.azure.com
+dr.dk
